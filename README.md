@@ -2,7 +2,7 @@
 
 ## Tree module
 If you just want to learn how to implement functions on a tree structure in Elm, this is for you!
-The RED-BLACK tree used in core/Dict.elm was complicated, for learning, this is a simple tree module.
+For the balanced binary search tree, see the RED-BLACK tree used core/Dict.elm.
 
 ## Python Counter in Elm
 Implement Python's collections.Counter in Elm.
